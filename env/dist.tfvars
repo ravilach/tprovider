@@ -4,7 +4,7 @@
 # cluster_ip=""
 # cluster_token=""
 # cluster_cacert=""
-# ingress_ip=""
+
 
 # framework_name=""
 
